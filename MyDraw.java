@@ -13,7 +13,7 @@ import java.util.Scanner;
 import java.awt.image.BufferedImage;
 import java.awt.*;
 import javax.swing.ImageIcon;
-
+//git test2
 public class MyDraw {
 	int loc[][] = new int[1000][2];//各个圆心坐标
 	BufferedImage image;
