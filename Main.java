@@ -7,6 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 //git test1
+//git in B2
 public class Main {
 	int num = 0;
 	int DirectedGraph[][];
