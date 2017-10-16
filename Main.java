@@ -1,12 +1,12 @@
 package lab1;
-
+//32131
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
-//git test1
+//git test1 //11
 public class Main {
 	int num = 0;
 	int DirectedGraph[][];
